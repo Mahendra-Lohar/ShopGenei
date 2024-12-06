@@ -296,6 +296,8 @@ Upon visiting the frontend:
 Enter your quey (e.g., "Suggest top fitness gadgets").
 View personalized recommendations in an alert.
 See previously generated recommendations listed on the webpage.
+![image](https://github.com/user-attachments/assets/438ed273-a897-4ba1-91f3-51981e0d288b)
+
 Output.What's Next?
 1. Enhance Functionality:
 Fine-tune the Gemini AI model for better recommendations.
